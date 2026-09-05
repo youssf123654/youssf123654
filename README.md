@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Youssef
+### Hi there 👋, I'm Youssf
 #### Electrical Power, Industrial Automation & OT Cybersecurity Engineer
 
 Welcome to my GitHub profile! Here I document my practical engineering projects, simulations, and hands-on implementations in the fields of industrial automation, control systems, motor drives, and operational technology security.
